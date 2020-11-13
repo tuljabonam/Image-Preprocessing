@@ -1,0 +1,9 @@
+
+Instructions to get started:
+
+1.This assignment is done using Python3 so installed Python and pip for the same.
+2.Installed:
+ pip install sklearn
+3.I even installed the necessary packages and libraries like numpy, pandas and matplotlib etc.
+4.I chose Jupyter Notebook to write my code. 
+5.Read the test data files using = pd.read_csv- trainingData, testData and genre data
